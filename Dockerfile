@@ -1,1 +1,2 @@
-FROM centos:latest
+FROM centos
+RUN yum install -y git
