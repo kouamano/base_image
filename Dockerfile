@@ -1,2 +1,1 @@
-FROM centos
-RUN yum install -y git
+FROM centos:7.9.2009
